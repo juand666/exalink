@@ -1,0 +1,27 @@
+2024-01-25 19:28:44,140 1 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2024-01-25 19:28:44,140 1 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2024-01-25 19:28:44,140 1 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2024-01-25 19:28:44,140 1 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2024-01-25 19:28:44,140 1 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2024-01-25 19:28:44,140 1 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2024-01-25 19:28:44,141 1 INFO ? odoo: Odoo version 16.0-20240104 
+2024-01-25 19:28:44,141 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2024-01-25 19:28:44,141 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/var/lib/odoo/addons/16.0', '/mnt/extra-addons'] 
+2024-01-25 19:28:44,141 1 INFO ? odoo: database: odoo@172.17.0.4:5432 
+2024-01-25 19:28:44,247 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2024-01-25 19:28:44,403 1 DEBUG ? odoo.service.server: Setting signal handlers 
+2024-01-25 19:28:44,405 1 DEBUG ? odoo.service.server: cron0 started! 
+2024-01-25 19:28:44,406 1 DEBUG ? odoo.service.server: cron1 started! 
+2024-01-25 19:28:44,405 1 INFO ? odoo.service.server: HTTP service (werkzeug) running on 5638695ae693:8069 
+2024-01-25 19:29:44,474 1 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2024-01-25 19:29:45,436 1 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2024-01-25 19:30:44,522 1 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2024-01-25 19:30:46,508 1 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2024-01-25 19:31:44,574 1 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2024-01-25 19:31:47,579 1 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2024-01-25 19:32:44,578 1 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2024-01-25 19:32:48,640 1 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2024-01-25 19:33:44,636 1 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2024-01-25 19:33:49,705 1 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2024-01-25 19:34:44,650 1 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2024-01-25 19:34:50,760 1 DEBUG ? odoo.service.server: cron1 polling for jobs 
